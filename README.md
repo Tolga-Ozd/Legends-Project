@@ -9,7 +9,7 @@ I can quickly grasp new technologies and concepts to develop innovative and crea
 If you enjoyed exploring this project, I invite you to check out my other projects as well. I am passionate about programming and have worked on a variety of exciting projects.
 
 ##	Legends Project: 
-All the project=> https://legends-ruddy.vercel.app/
+## All the project=> https://legends-ruddy.vercel.app/
 
 React Bootstrap is an integration kit that enables Bootstrap, a popular UI (User Interface) component library, to be used in React applications.
 In this project; <br>
