@@ -13,11 +13,11 @@ If you enjoyed exploring this project, I invite you to check out my other projec
 
 React Bootstrap is an integration kit that enables Bootstrap, a popular UI (User Interface) component library, to be used in React applications.
 In this project; <br>
--HTML, <br>
--CSS Frameworks, <br>
--React bootstrap,  <br>
--Component structure,  <br>
--useState and <br>
--React Component <br>
--Mock data were used.
+- HTML, <br>
+- CSS Frameworks, <br>
+- React bootstrap,  <br>
+- Component structure,  <br>
+- useState and <br>
+- React Component <br>
+- Mock data were used.
 
